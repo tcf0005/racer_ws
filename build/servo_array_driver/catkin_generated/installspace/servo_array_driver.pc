@@ -1,0 +1,8 @@
+prefix=/home/jetson/lab_ws/install
+
+Name: servo_array_driver
+Description: Description of servo_array_driver
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

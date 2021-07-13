@@ -1,0 +1,2 @@
+gscam:jetson_nano_csi_cam_ros:joystick_drivers/joy:joystick_drivers/joystick_drivers:joystick_drivers/spacenav_node:joytransfer:ros-i2cpwmboard:servo_array_driver
+-DCATKIN_DEVEL_PREFIX=/home/jetson/lab_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/lab_ws/install -G Unix Makefiles
